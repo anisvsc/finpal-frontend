@@ -129,7 +129,7 @@ const AIAssistantIllustration = () => {
     <Card aria-hidden className="mt-6 aspect-video translate-y-4 p-4 pb-6 transition-transform duration-200 group-hover:translate-y-0">
       <div className="w-fit">
         <Sparkles className="size-3.5 fill-purple-300 stroke-purple-300" />
-        <p className="mt-2 line-clamp-2 text-sm">How can I optimize my neural network to reduce inference time while maintaining accuracy?</p>
+        <p className="mt-2 line-clamp-2 text-sm">I want to retire at 40, what should I do?</p>
       </div>
       <div className="bg-foreground/5 -mx-3 -mb-3 mt-3 space-y-3 rounded-lg p-3">
         <div className="text-muted-foreground text-sm">Ask AI Assistant</div>
